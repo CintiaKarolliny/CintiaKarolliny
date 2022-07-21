@@ -20,5 +20,3 @@ Técnica em Desenvolvimentos de Sistemas, sigo desde 2019 me apaixonando pela te
 	<img align="center" alt="Django" height="40" width="50" src="https://icongr.am/devicon/django-plain.svg?size=148&color=f5f5f5">
 </div> 
 
-<p align="center"> DEUS OS ABENÇOE :pray: </p>
-
